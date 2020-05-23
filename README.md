@@ -22,4 +22,9 @@ RECURSOS UTILIZADOS
 
 - Android Studio
 
+Dashboard:
+
+*Necessário implementar:
+https://sensoresapi.zyrosite.com/
+
 BCC6 semestre
